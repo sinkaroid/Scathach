@@ -1,1 +1,1 @@
-# sinkaroid.github.io
+# Scathach bot.
