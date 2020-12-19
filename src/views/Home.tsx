@@ -12,7 +12,7 @@ export default class Home extends Vue {
     return <div id="home">
       
           <div class="animated zoomIn">
-            <img src="https://scathach.js.org/src/me.png" class="img1" width="250px" />
+            <img src="https://scathach.redsplit.org/src/me.png" class="img1" width="250px" />
             <br />
             
             {
